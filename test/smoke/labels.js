@@ -40,7 +40,7 @@ describe('My Little Hero', function () { //define suite title by passing a strin
 
     describe('Labels are correct', function () {
 
-        it('TC-006 Label for name = 1. What is your HERO\'s name?', function () {
+        it('TC-006 Label for name = 1. What is your Hero\'s name?', function () {
             const text = $$(sel.label)[0].getAttribute('title');
             expect(text).toEqual(exp.labelName);
         });
