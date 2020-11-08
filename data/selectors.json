@@ -6,6 +6,7 @@
   "story": ".ant-select-selector",
   "create": ".ant-btn",
   "storyClick": ".ant-select-show-arrow",
-  "storyType": ".ant-select-item-option"
+  "storyType": ".ant-select-item-option",
+  "tryAgain": ".btn-primary"
 
 }
