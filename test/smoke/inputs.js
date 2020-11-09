@@ -28,7 +28,7 @@ describe('Inputs', function () {
             expect(label).toEqual(true);
         });
         it('TC-020 Create', function () {
-            const label = $(sel.create).isDisplayed();
+            const label = $(sel.createBtn).isDisplayed();
             expect(label).toEqual(true);
         });
     });

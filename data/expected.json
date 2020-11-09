@@ -3,5 +3,6 @@
   "labelGender": "2. Please choose a gender.",
   "labelAge": "3. How old is your hero?",
   "labelStory": "4. What type of story would you like to read?",
-  "placeholderAge": "Hero's age"
+  "placeholderAge": "Hero's age",
+  "checkAge": ["123", "two", "three", "four", "five"]
 }
