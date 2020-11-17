@@ -7,6 +7,10 @@
   "createBtn": ".ant-btn",
   "storyClick": ".ant-select-show-arrow",
   "storyType": ".ant-select-item-option",
-  "tryAgain": ".btn-primary"
+  "tryAgain": ".btn-primary",
+  "spinnerAgeUp": ".ant-input-number-handler-up",
+  "spinnerAgeDown": ".ant-input-number-handler-down",
+  "errorMessage": ".ant-form-item-explain"
+
 
 }

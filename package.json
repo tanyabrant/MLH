@@ -1,7 +1,6 @@
 {
   "name": "MLH",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "wdio wdio.conf.js"
@@ -24,5 +23,17 @@
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",
     "@babel/register": "^7.12.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanyaBrant/MLH.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TanyaBrant/MLH/issues"
+  },
+  "homepage": "https://github.com/TanyaBrant/MLH#readme",
+  "description": ""
 }

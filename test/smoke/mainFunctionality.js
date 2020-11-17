@@ -25,4 +25,5 @@ describe('Checking the main functionality', function () {
             expect(btn).toEqual(true);
         });
     });
+
 });
